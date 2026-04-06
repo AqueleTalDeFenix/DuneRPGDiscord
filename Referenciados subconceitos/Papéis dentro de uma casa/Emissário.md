@@ -1,0 +1,3 @@
+Um Emissário é um diplomata responsável pela política externa da Casa isto é, pelas interações pacíficas entre a Casa e seus rivais, representantes da CHOAM, o Landsraad ou terceiros como a Bene Gesserit ou a Guilda Espacial. Eles supervisionam uma equipe de diplomatas, mensageiros e embaixadores. É sua responsabilidade representar os interesses da Casa e de seu Governante perante pessoas de fora.
+
+**Direitos e Responsabilidades:** Um Emissário precisa ter uma compreensão aguçada do estado do universo fora dos limites de sua Casa. A política imperial pode mudar rapidamente e a capacidade de prever esses estados de espírito pode ser a chave para a sobrevivência da Casa.

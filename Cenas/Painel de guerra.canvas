@@ -1,0 +1,12 @@
+{
+	"nodes":[
+		{"id":"25f0ec805bd23629","type":"text","text":"Esquadrão 2","x":-129,"y":-220,"width":250,"height":60},
+		{"id":"e560dd12f58ab8f6","x":-640,"y":-220,"width":250,"height":60,"type":"text","text":"Esquadrão 1"},
+		{"id":"95de934e08ba1947","type":"text","text":"Esquadrão 2","x":440,"y":-220,"width":250,"height":60},
+		{"id":"3665f8cc73dd617d","x":-640,"y":120,"width":250,"height":60,"type":"text","text":"Entrada Principal norte"},
+		{"id":"cb7feab5b7aae4b9","x":-129,"y":120,"width":250,"height":60,"type":"text","text":"Entrada de serviço Sul"},
+		{"id":"8254c6e8e0534b92","x":440,"y":120,"width":250,"height":60,"type":"text","text":"Área de Carga"},
+		{"id":"708e7d49f1a15fa8","x":-640,"y":380,"width":250,"height":60,"type":"text","text":""}
+	],
+	"edges":[]
+}

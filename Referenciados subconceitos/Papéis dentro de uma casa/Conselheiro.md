@@ -1,0 +1,3 @@
+O Conselheiro conecta o Governante às pessoas que servem a Casa, recebendo e classificando as solicitações dos cidadãos para repassá-las ao Governante e, em seguida, apresentando as decisões do Governante ao povo de maneiras que eles possam entender. É responsabilidade do Conselheiro supervisionar os detalhes de como a Casa é administrada e garantir que quaisquer problemas que precisem chegar à atenção do Governante cheguem lá.
+
+**Direitos e Responsabilidades:** O Conselheiro está atento às pessoas comuns da Casa. Ele conhece e entende suas necessidades e pode ajudar o Governante a atendê-las ou ignorá-las. Ele também será capaz de determinar o humor do povo e se há agitação no horizonte.

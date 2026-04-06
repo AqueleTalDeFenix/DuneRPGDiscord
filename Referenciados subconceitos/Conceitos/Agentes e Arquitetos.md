@@ -1,0 +1,4 @@
+Em Dune: Adventures in the Imperium, utilizamos dois níveis de jogo para permitir que os jogadores trabalhem como poderosos nos bastidores e como agentes em missões diretas. O jogo no nível Arquiteto envolve os personagens dos jogadores usando seus recursos à distância para atingir um objetivo. Isso pode ser como um general movendo suas tropas ou como um mestre espião ativando agentes como assassinos ou espiões em uma missão.
+
+No jogo no nível Agente, os personagens realmente "colocam a mão na massa" e realizam as missões eles mesmos.
+Qualquer personagem pode usar qualquer um dos estilos de jogo para realizar missões e seu grupo pode ter uma preferência por um ou outro. O nível que você usa geralmente será determinado pelos recursos que você tem disponíveis e pela maneira como os jogadores decidem enfrentar uma situação, e não pela aventura ou pelo mestre do jogo.

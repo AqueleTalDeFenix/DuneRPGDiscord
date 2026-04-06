@@ -1,0 +1,3 @@
+O Tesoureiro é o principal responsável pelas finanças da Câmara. Ele monitora a situação dos fundos da Câmara, supervisiona a arrecadação de impostos e lida com outras questões financeiras que fazem parte da administração da Câmara. 
+
+**Direitos e Responsabilidades:** Um bom Tesoureiro consegue ver muitos detalhes nas contas, pois discrepâncias revelam corrupção, má gestão e uma série de outros problemas. Ele também é bom em garantir que os investimentos certos melhorem a carteira financeira da Câmara. Muitos trabalham em conjunto com os consultores da [[CHOAM]] para manter a posição da Câmara no [[Landsraad]].

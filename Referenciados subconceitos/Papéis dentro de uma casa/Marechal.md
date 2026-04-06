@@ -1,0 +1,4 @@
+O Marechal garante que as leis da Casa sejam aplicadas e que os territórios da Casa sejam organizados e seguros. Eles frequentemente se coordenam com outros (como o Conselheiro) em questões de segurança, mas em questões de lei e julgamento, respondem apenas ao Governante. Para ser um investigador eficaz, um Marechal deve entender o submundo do crime, seja sabendo onde erradicar o crime ou tendo relações de primeira com gângsteres, trabalhando para
+manter a paz.
+
+**Direitos e Responsabilidades:** O Marechal é responsável por manter o estado de direito dentro das propriedades da Casa. Ele pode ser um xerife solitário ou chefe de uma grande força policial, dependendo do tamanho e da estabilidade da Casa. Um Marechal corrupto pode prejudicar seriamente a produtividade de uma Casa, permitindo que contrabandistas e criminosos desviem fundos do Governante.

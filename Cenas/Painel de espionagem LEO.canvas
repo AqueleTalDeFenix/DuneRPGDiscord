@@ -1,0 +1,14 @@
+{
+	"nodes":[
+		{"id":"09ca0bf44ba1c36d","x":-401,"y":-131,"width":250,"height":60,"type":"text","text":"Casa desconhecida"},
+		{"id":"954fce9f4ee675f3","x":-442,"y":20,"width":333,"height":60,"type":"text","text":"Atacando a fabrica de armas da casa leo"},
+		{"id":"d703672b64c203fa","x":-567,"y":160,"width":250,"height":60,"type":"text","text":"A mando de ?"},
+		{"id":"cf099e0b1567472b","x":-234,"y":160,"width":250,"height":60,"type":"text","text":"Cor do uniforme"}
+	],
+	"edges":[
+		{"id":"81ca526b417e2ef1","fromNode":"09ca0bf44ba1c36d","fromSide":"bottom","toNode":"954fce9f4ee675f3","toSide":"top"},
+		{"id":"3503ecff080798e0","fromNode":"954fce9f4ee675f3","fromSide":"bottom","toNode":"d703672b64c203fa","toSide":"top"},
+		{"id":"cc1139a9052a1381","fromNode":"954fce9f4ee675f3","fromSide":"bottom","toNode":"cf099e0b1567472b","toSide":"top"},
+		{"id":"a61fc79d9e4c7aee","fromNode":"cf099e0b1567472b","fromSide":"right","toNode":"09ca0bf44ba1c36d","toSide":"right"}
+	]
+}
